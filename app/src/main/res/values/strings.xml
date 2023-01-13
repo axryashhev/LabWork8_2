@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LabWork8</string>
+    <string name="add">Добавить</string>
+    <string name="del">удалить</string>
+    <string name="welcome">Добро пожаловать в базу данных</string>
+    <string name="lbl_id">Введите id:</string>
+    <string name="lbl_id_groups">Введите id группы:</string>
+    <string name="lbl_name">Введите имя:</string>
+    <string name="lbl_surname">Введите фамилию:</string>
+</resources>
